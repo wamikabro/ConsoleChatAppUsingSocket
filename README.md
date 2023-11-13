@@ -15,4 +15,4 @@ This programs is a basic and simple representation of how Chat Apps normally wor
 and other crucial things in the development.
 
 IT is fun to create these kind of programs during the development journey, and enjoy your time with friends and family (or with yourself alone).
-Note: It will only work on single device, since there's no implementation of multiple devices each playing the role of Server and Clients independently.
+Note: It will only work on single device, since there's no implementation of multiple devices each playing the role of Server and Clients independently (the remote server).
